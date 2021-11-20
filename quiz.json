@@ -1,0 +1,31 @@
+{
+    "ques" : [
+        "1. CSS stands for - ",
+        "2. The property in CSS used to change the background color of an element is -",
+        "3. The CSS property used to control the element's font-size is -",
+        "4. Which type of CSS is used in the below code?<p style = \"border:2px solid red;\">",
+        "5. _______selectors, which are used to specify a group of elements",
+        "6. Apart from <b> tag, what other tag makes text bold ?",
+        "7. HTML is what type of language ?",
+        "8. What is the full form of HTML?",
+        "9. What should be the first tag in any HTML document?",
+        "10. What tag is used to display a picture in a HTML page?"
+    ],
+    
+    
+    "options" : [
+        ["Cascade style sheets", "Color and style sheets","Cascading style sheets", "None of the above"],
+        ["bgcolor", "color", "background-color", "All of the above"],
+        ["text-style", "text-size", "font-size", "None of the above"],
+        ["Inline CSS", "Internal CSS", "External CSS", "None of the above"],
+        ["id", "class", "tag", "both class and tag"],
+        ["<fat>", "<strong>", "<black>", "<emp>"],
+        ["Scripting Language", "Markup Language","Programming Language", "Network Protocol"],
+        ["HyperText Markup Language", "Hyper Teach Markup Language","Hyper Tech Markup Language", "None of these"],
+        ["<head>", "<title>", "<html>", "<document>"],
+        ["picture", "image", "src", "img"]
+    ],
+    
+    "ans" : [3, 3, 3, 1, 2, 2, 2, 1, 3, 4]
+}
+
